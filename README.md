@@ -6,7 +6,7 @@
 
 - Lista sin numerar
 - otro elemente de la lista
-- Otro elemenyo más de la lista
+- Otro elemento más de la lista
 
 1. Lista numerada
 1. otro item de la lista numerada
@@ -15,4 +15,6 @@
 [texto del enlace](http://google.es)
 
 Texto en **negrita**
+Texto en *cursiva*
+Texto tachado ~~dos virgulillas~~
 
