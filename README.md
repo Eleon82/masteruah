@@ -19,7 +19,7 @@ Texto en *cursiva*
 Texto tachado ~~dos virgulillas~~
 
 
-| **Compañeros de clase:** | --- |
+| **Compañeros de clase:** | **Usuario GITHUB** |
 | :-------------- | ------------ | 
 | Santiago Gómez | SGCHH | 
 | Sergio Manzano | sergiomanzano | 
