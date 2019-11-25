@@ -18,3 +18,21 @@ Texto en **negrita**
 Texto en *cursiva*
 Texto tachado ~~dos virgulillas~~
 
+
+| **Compañeros de clase:** |
+| :-------------- | ------------ |
+| Santiago Gómez | SGCHH |
+| Sergio Manzano | sergiomanzano |
+| Jaime Hondal | Jaime95 |
+| Carlos Damas | cdamas |
+| Pilar Villena | pilarvillena |
+| Axel García | axelgarcia95 |
+| Thayanny Carvalho | thayanny |
+| Marta Carricarte | mcarricarte |
+| Jillie Chang | Jille |
+| Miguel Jimenez | MiguelJG|
+| Zeng Yong | zengyong96 |
+| Alberto Mayoral | elmayo82 |
+| Alvaro de la Fuente | alvarodelafuente |
+
+
